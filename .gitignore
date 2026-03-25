@@ -3,3 +3,4 @@ package-lock.json
 package.json
 productos-db.js
 productos.db
+.gitignore
